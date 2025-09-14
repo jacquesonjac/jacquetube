@@ -5,7 +5,9 @@ p {
 
 body{
     /*This style below will be inherited*/
+    position: relative;
     font-family: Roboto, Arial;
+    padding-bottom: 1000px;
     margin: 0; 
     padding-top: 80px;
     padding-left: 96px;
